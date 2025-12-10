@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /css/
+Disallow: /js/
+Disallow: /images/
+
+Allow: /index.html
+Allow: /video.html
+Allow: /gallery.html
+
+Sitemap: https://ваше-имя-на-github.github.io/donael/sitemap.xml
